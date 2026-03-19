@@ -2,7 +2,7 @@
 Quantum Pulse 
 
 member 
-Agnija Mishra,\n
+Agnija Mishra,
 Rahul Chowdhury ,
 Aniket Mohapatra ,
 Suryansh Behera 
