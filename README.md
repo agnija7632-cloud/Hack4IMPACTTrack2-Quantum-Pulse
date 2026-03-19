@@ -2,9 +2,9 @@
 Quantum Pulse 
 
 member 
-Agnija Mishra 
-Rahul Chowdhury 
-Aniket Mohapatra 
+Agnija Mishra,\n
+Rahul Chowdhury ,
+Aniket Mohapatra ,
 Suryansh Behera 
 
 domain
